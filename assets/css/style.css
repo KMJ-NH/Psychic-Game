@@ -1,0 +1,34 @@
+body {
+  font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 750px;
+  max-width: 1600px;
+  margin: 0 auto;
+  background: url("../images/night_sky.jpeg");
+}
+
+h1 {
+    color: rgb(241, 235, 235);
+    padding: 40px;
+    font-style: italic;
+    font-size: 55px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    color: rgb(197, 135, 158);
+    font-size: 30px;
+    margin-left: 100px;
+    font-weight: bold;
+}
+
+p {
+    color: rgb(197, 193, 193);
+    font-size: 40px;
+    text-align: center;
+    padding: 90px 0px 0px 0px;
+}
